@@ -24,6 +24,7 @@ const answers = [
     '{userName}のいいところは優しさです。{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。'
 ]
 
+
 function removeAllChildren(element) {
     while (element.firstChild) {
         element.removeChild(element.firstChild);
